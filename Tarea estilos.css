@@ -1,0 +1,96 @@
+*{ 
+
+ margin-top: 5px;
+ margin-bottom:0px;
+
+}
+  
+
+
+.container{
+
+margin-left: 2%;
+margin-right: 2%;
+height: 80px;
+border-radius:10px;
+border: 5px red solid;
+background-color: rgb(64, 64, 131)
+
+
+}
+
+.btn-div{
+
+
+ text-align: center;
+ margin-bottom:15px;
+ margin-top:15px;
+ 
+ 
+}
+  
+.btn-div button{
+
+  border: 5px red solid;
+  border-radius:6px;
+  background-color:black;
+  font-family:Impact, Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  color: white;
+  
+
+  
+  
+}
+
+.circulo{
+
+  margin-top:10%;
+  margin-left: 50%;
+  width: 100px;
+  height: 100px;
+  background-color:rgb(50, 102, 180);
+  border:5px  solid rgb(7, 6, 6);
+  border-radius: 50%;
+
+
+}
+
+.cuadrado{
+
+
+ margin-top:8%;
+  margin-left: 50%;  
+ width: 100px; 
+ height: 100px; 
+ background: #428bca;
+ box-shadow: 4px 4px 10px rgb(77, 77, 77) ;
+}
+
+
+.triangulo{
+
+
+margin-left: 50%;
+margin-top: 8%;
+width: 0; 
+height: 0; 
+border-left: 100px solid #092e4e;
+border-top: 50px solid #95eef1;
+border-bottom: 50px solid #1506f1; 
+}
+
+.color-chart {
+
+  margin-left: 50%;
+  margin-top: 8%;
+  width:0;
+  height:0;
+  border-right: 50px solid transparent;
+  border-top: 50px solid darkcyan;
+  border-left: 50px solid blue;
+  border-bottom: 50px solid darkblue;
+  -moz-border-radius: 100%;
+  -webkit-border-radius: 100%;
+  border-radius: 100%;
+}
+
